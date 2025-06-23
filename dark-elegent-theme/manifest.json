@@ -1,0 +1,24 @@
+{
+  "manifest_version": 3,
+  "name": "Brave Custom Theme",
+  "version": "1.0",
+  "description": "A dark custom theme for Brave browser",
+  "theme": {
+    "colors": {
+      "frame": [10, 10, 10],
+      "toolbar": [20, 20, 20],
+      "tab_background_text": [220, 220, 220],
+      "tab_text": [220, 220, 220],
+      "bookmark_text": [200, 200, 200],
+      "ntp_background": [8, 8, 8],
+      "tab_selected": [30, 30, 30],
+      "tab_selected_border": [0, 0, 0]
+    },
+    "images": {
+      "theme_frame": "images/theme_bg.png"
+    },
+    "properties": {
+      "tab_selected_border": "2px solid #50aaff"
+    }
+  }
+}
