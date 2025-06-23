@@ -27,7 +27,3 @@ These extensions are intended for use as unpacked Chrome/Brave extensions:
 Tested on:
 - Google Chrome
 - Brave Browser
-
-## License
-
-MIT License
