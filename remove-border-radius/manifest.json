@@ -1,0 +1,12 @@
+{
+    "manifest_version": 3,
+    "name": "remove-rounded-corners",
+    "version": "1.0",
+    "description": "Removes rounded corners from all elements on the page.",
+    "content_scripts": [
+        {
+            "matches": ["<all_urls>"],
+            "css": ["styles.css"]
+        }
+    ]
+}
