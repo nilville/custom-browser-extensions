@@ -1,6 +1,6 @@
 {
     "manifest_version": 3,
-    "name": "remove-rounded-corners",
+    "name": "dark-blue-scroll-bar",
     "version": "1.0",
     "description": "Removes rounded corners from all elements on the page.",
     "content_scripts": [
