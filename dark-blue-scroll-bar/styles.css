@@ -1,9 +1,6 @@
-
-
-
 html, body, * {
     scrollbar-width: thin;
-    scrollbar-color: rgb(255, 165, 0) rgb(10, 10, 10);
+    scrollbar-color: rgb(40, 40, 40) rgb(10, 10, 10);
 }
 
 ::-webkit-scrollbar {
@@ -12,7 +9,7 @@ html, body, * {
 }
 
 ::-webkit-scrollbar-thumb {
-    background: rgb(255, 165, 0);
+    background: rgb(40, 40, 40);
     border-radius: 6px;
 }
 
@@ -22,5 +19,5 @@ html, body, * {
 }
 
 ::-webkit-scrollbar-thumb:hover {
-    background: rgba(255, 166, 0, 0.719);
+    background: rgba(40, 40, 40, 0.8);
 }

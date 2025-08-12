@@ -7,18 +7,18 @@
     "colors": {
       "frame": [10, 10, 10],
       "toolbar": [20, 20, 20],
-      "tab_background_text": [0, 255, 255],
-      "tab_text": [0, 255, 255],
-      "bookmark_text": [0, 255, 255],
+      "tab_background_text": [240, 248, 255],
+      "tab_text": [240, 248, 255],
+      "bookmark_text": [240, 248, 255],
       "ntp_background": [8, 8, 8],
       "tab_selected": [30, 30, 30],
-      "tab_selected_border": [0, 255, 255]
+      "tab_selected_border": [240, 248, 255]
     },
     "images": {
       "theme_frame": "images/theme_bg.png"
     },
     "properties": {
-      "tab_selected_border": "2px solid #00ffff"
+      "tab_selected_border": "2px solid #f0f8ff"
     }
   }
 }
